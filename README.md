@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3 align="center">
   Welcome to my profile, I will be your guide!
 </h3>
@@ -73,3 +74,27 @@ Science, Data Engineering, Team Management and tech in general.
 ## 📊 Show me the data
 
 ---
+=======
+### Hi there 👋
+
+<!--
+**limagbz/limagbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<p align="center">
+   <a href="#">
+    <img src="icons/kubernetes.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+>>>>>>> 728310e5710cdd45c03cb9354483559f46c0e700
