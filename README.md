@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h3 align="center">
   Welcome to my profile, I will be your guide!
 </h3>
@@ -14,18 +13,14 @@ is the main way to empower people, specially when talking about technology.
 
 <a href="https://www.linkedin.com/in/limagbz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!-- NEXT: COLOCAR LINKEDIN E ALGUMA PARADA RELACIONADA -->
-
 ## 💬 Some topics I like to talk
 
----
 Explainable AI, Agile, Smart Cities, Data Management, DevSecOps, DataOps, MLOps, Machine Learning, Data
 Science, Data Engineering, Team Management and tech in general.
 
 ## 💻 Tech that I use/used
-
----
 <!-- https://badges.pages.dev/ -->
+
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -74,27 +69,3 @@ Science, Data Engineering, Team Management and tech in general.
 ## 📊 Show me the data
 
 ---
-=======
-### Hi there 👋
-
-<!--
-**limagbz/limagbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-   <a href="#">
-    <img src="icons/kubernetes.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
->>>>>>> 728310e5710cdd45c03cb9354483559f46c0e700
