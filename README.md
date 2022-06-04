@@ -67,5 +67,3 @@ Science, Data Engineering, Team Management and tech in general.
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat)
 
 ## 📊 Show me the data
-
----
