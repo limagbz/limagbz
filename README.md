@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+   <a href="#">
+    <img src="icons/kubernetes.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
