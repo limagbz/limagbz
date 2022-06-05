@@ -66,4 +66,7 @@ Science, Data Engineering, Team Management and tech in general.
 ![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat)
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat)
 
-## 📊 Show me the data
+## 📊 Talk is cheap, show me the data
+
+![](https://github-readme-stats.vercel.app/api?username=limagbz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=limagbz&theme=tokyonight&hide_border=false)<br/>
