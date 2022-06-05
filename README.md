@@ -68,5 +68,5 @@ Science, Data Engineering, Team Management and tech in general.
 
 ## 📊 Talk is cheap, show me the data
 
-![](https://github-readme-stats.vercel.app/api?username=limagbz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=limagbz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=limagbz&theme=tokyonight&hide_border=false)<br/>
