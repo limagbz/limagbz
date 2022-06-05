@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22Software+and+Cloud+Engineer%22);print(%22Likes+to+work+with+data!%22)"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22Cloud+and+Data+Engineer%22);print(%22Likes+to+work+with+data!%22)"></a>
 </p>
 
 Bachelor in Computer Engineering that nowadays would have a hard time not burning a transistor. Currently
