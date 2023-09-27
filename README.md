@@ -107,7 +107,43 @@ Science, Data Engineering, Team Management and tech in general.
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=flat)
 
-## 📊 Talk is cheap, show me the data
+## 💡 Highlights
 
-![](https://github-readme-stats.vercel.app/api?username=limagbz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=limagbz&theme=tokyonight&hide_border=false)<br/>
+<table>
+  <tr>
+    <!-- Top Billboard Songs -->
+    <td width="50%">
+      <a href="https://public.tableau.com/views/BillboardSpotify/Storytelling?:language=en&:display_count=y&:origin=viz_share_link">
+        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBpZWo3bWRyZnk3ZG8zcXdxaTJ0cTMyajYzZjgycDJ6OW9lbjgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxxkWxHOEDrq0/giphy.gif">
+      </a>
+      <br>
+      <sup><strong>Tableau Public:</strong> A study of billboard's most popular songs from 1950 to 2015 </sup>
+    </td>
+    <!-- Arrythimia Alarms -->
+    <td width="50%">
+      <a href="https://github.com/limagbz/arrhythmia-alarms">
+        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzaWh6NWhwZTlweDZjeWh1aWk3Y3NkOHo5YXB6OHJ0eXh1ZzBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oStBM1ANst52U/giphy.gif">
+      </a>
+      <br>
+      <sup><strong>Project:</strong> Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks</sup>
+    </td>
+  </tr>
+  <tr>
+    <!-- Fake News -->
+    <td width="50%">
+      <a href="https://doi.org/10.1111/exsy.13171">
+        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmaHoyZDY3OHRiMmRmZDF1YTZ3eTF1N2V3a2c0dG9sdWxob29vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzenHUYecUt20MPCnr/giphy.gif">
+      </a>
+      <br>
+      <sup><strong>Reasearch:</strong> Statistical learning from Brazilian fake news </sup>
+    </td>
+    <!-- Data Mesh -->
+    <td width="50%">
+      <a href="https://github.com/limagbz/data-mesh-yelp">
+        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdqaXh6a2t3YjNwMHg0cTZwdmc4N2txdmE0N2ExampxdnlsNHFocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTO8QA0mX2Cfw5vhkp/giphy.gif">
+      </a>
+      <br>
+      <sup><strong>Project:</strong> Yelp! Data Mesh Project</sup>
+    </td>
+  </tr>
+</table>
