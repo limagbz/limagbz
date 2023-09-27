@@ -130,9 +130,9 @@ Science, Data Engineering, Team Management and tech in general.
   </tr>
   <tr>
     <!-- Fake News -->
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://doi.org/10.1111/exsy.13171">
-        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmaHoyZDY3OHRiMmRmZDF1YTZ3eTF1N2V3a2c0dG9sdWxob29vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzenHUYecUt20MPCnr/giphy.gif">
+        <img width="75%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmaHoyZDY3OHRiMmRmZDF1YTZ3eTF1N2V3a2c0dG9sdWxob29vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzenHUYecUt20MPCnr/giphy.gif">
       </a>
       <br>
       <sup><strong>Reasearch:</strong> Statistical learning from Brazilian fake news </sup>
