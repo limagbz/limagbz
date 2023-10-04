@@ -16,6 +16,7 @@ people, specially when talking about technology.
 <p align="center">
   <a href="https://www.linkedin.com/in/limagbz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0001-7893-010X" target="_blank"><img alt="OrcID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://dev.to/limagbz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-black?style=for-the-badge&logo=blog"></a>
 </p>
 
 ## 💬 Some topics I like to talk
