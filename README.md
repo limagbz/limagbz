@@ -6,12 +6,9 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22Cloud+and+Data+Engineer%22)"></a>
 </p>
 
-Bachelor in Computer Engineering that nowadays would have a hard time not burning a transistor. Currently
-focused on working with data, from data engineering, modeling, machine learning and some cloud engineering in
-between. Topics involving data democratization, Data Meshs, DataOps, Explainability of ML algorithms, 
-development processes and software engineering practices are among my regular readings. I like to solve 
-problems and deliver solution with focus on people. I believe that sharing knowledge is the main way to empower 
-people, specially when talking about technology.
+Cloud whisperer. Data wrangler. Machine Learning enthusiast. I build bridges between data and insights, turning raw information into actionable knowledge. From wrangling terabytes of data to orchestrating 
+elegant cloud solutions, I'm always seeking new challenges and pushing the boundaries of what's possible. Currently interested in topics such as Data Meshs and Machine Learning Explainability. However,
+with time and energy we can talk about anything, especially if it is about Tech! Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/limagbz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
