@@ -16,11 +16,6 @@ with time and energy we can talk about anything, especially if it is about Tech!
   <a href="https://dev.to/limagbz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-black?style=for-the-badge&logo=dev.to"></a>
 </p>
 
-## 💬 Some topics I like to talk
-
-Explainable AI, Agile, Smart Cities, Data Management, DevSecOps, DataOps, MLOps, Machine Learning, Data
-Science, Data Engineering, Team Management and tech in general.
-
 ## 💻 Tech that I use/used/support
 <!-- https://badges.pages.dev/ -->
 
