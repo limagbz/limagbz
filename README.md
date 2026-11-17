@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <strong>Data Engineer • AI Engineer • ML Engineer</strong><br>
+  <strong>Data Engineer/Architect • AI/ML Engineer</strong><br>
   <em>Making data behave so AI can actually work</em>
 </p>
 
@@ -27,12 +27,11 @@ Bring a favorite tech topic and a little caffeine, and we can talk about it all 
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat" />
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=fff&style=flat" />
+  <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-191919?logo=anthropic&logoColor=fff&style=flat" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
 </p>
 
@@ -47,8 +46,9 @@ Bring a favorite tech topic and a little caffeine, and we can talk about it all 
       </a>
       <br>
         <strong>📄 Research: Statistical Learning on Fake News</strong><br>
-        <sub>Peer-reviewed study analyzing and detecting misinformation patterns in Brazilian news media.</sub><br>
+        <sub>Peer-reviewed study analyzing and detecting misinformation patterns in Brazilian news.</sub><br>
         <sub><strong><a href="https://doi.org/10.1111/exsy.13171">Read Paper (Expert Systems) ↗</a></strong> &nbsp;•&nbsp; <strong><a href="https://github.com/limagbz/fake-news-ptBR">Source Code ↗</a></strong></sub><br>
+        <sub>#exploratory-data-analysis &nbsp; #nlp &nbsp; #python &nbsp; #sklearn &nbsp; #statistical-models &nbsp; </sub><br>
     </td>
     <!-- Data Mesh -->
     <td width="50%" valign="top">
@@ -57,8 +57,9 @@ Bring a favorite tech topic and a little caffeine, and we can talk about it all 
       </a>
       <br>
       <strong>🏗️ Architecture: Yelp! Data Mesh</strong><br>
-      <sub> Personal project for a decentralized data platform implementing domain-oriented ownership and self-serve data infrastructure.</sub><br>
-      <sub><strong><a href="https://github.com/limagbz/fake-news-ptBR">Source Code ↗</a></strong></sub><br>
+      <sub>Decentralized data platform implementing domain-oriented ownership and self-serve data infrastructure.</sub><br>
+      <sub><strong><a href="https://github.com/limagbz/data-mesh-yelp">Source Code ↗</a></strong></sub><br>
+      <sub>#data-mesh &nbsp; #kafka &nbsp; #dbt &nbsp; #trino &nbsp; #kubernetes &nbsp; #data-hub &nbsp; #s3 &nbsp; #postgres &nbsp; #grafana</sub><br>
     </td>
   </tr>
   <tr>
@@ -71,6 +72,7 @@ Bring a favorite tech topic and a little caffeine, and we can talk about it all 
       <strong>📊 Storytelling: Billboard & Spotify (1950–2015)</strong><br>
       <sub>Interactive visual exploration on Tableau of 65 years of hit music and audio trends.</sub><br>
       <sub><strong><a href="https://public.tableau.com/views/BillboardSpotify/Storytelling?:language=en&:display_count=y&:origin=viz_share_link">Visualization (Tableau) ↗</a></strong> &nbsp;•&nbsp; <strong><a href="https://github.com/limagbz/top_billboard_songs_spotify">Source Code ↗</a></strong></sub><br>
+      <sub>#tableau &nbsp; #data-visualization &nbsp; #data-storytelling &nbsp; #exploratory-data-analysis &nbsp; #music</sub><br>
     </td>
       <!-- Arrhythmia Alarms -->
     <td width="50%" valign="top">
@@ -79,8 +81,9 @@ Bring a favorite tech topic and a little caffeine, and we can talk about it all 
       </a>
       <br>
       <strong>🫀 AI/ML: ICU Arrhythmia Alarm Detection</strong><br>
-      <sub>Convolutional Neural Network model (VGG16) designed to classify cardiac signals from multiple equipments in order to reduce false ICU alarms.</sub><br>
+      <sub>Convolutional Neural Network model (VGG16) designed to classify cardiac signals from multiple devices in order to reduce false ICU alarms.</sub><br>
       <sub><strong><a href="https://github.com/limagbz/arrhythmia-alarms">Source Code ↗</a></strong></sub><br>
+      <sub>#deep-learning &nbsp; #convolutional-neural-networks &nbsp; #vgg16 &nbsp; #python &nbsp; #recurrence-plots</sub><br>
     </td>
   </tr>
 </table>
