@@ -1,14 +1,11 @@
 <h3 align="center">
-  Welcome to my profile, I will be your guide!
+  Hello, I'm Gabriel 👋
 </h3>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22Cloud+and+Data+Engineer%22)"></a>
+  <strong>Data Engineer • AI Engineer • ML Engineer</strong><br>
+  <em>Making data behave so AI can actually work</em>
 </p>
-
-Cloud whisperer. Data wrangler. Machine Learning enthusiast. I build bridges between data and insights, turning raw information into actionable knowledge. From wrangling terabytes of data to orchestrating 
-elegant cloud solutions, I'm always seeking new challenges and pushing the boundaries of what's possible. Currently interested in topics such as Data Modeling and Machine Learning Explainability. However,
-with time and energy we can talk about anything, especially if it is about Tech! Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/limagbz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,81 +13,74 @@ with time and energy we can talk about anything, especially if it is about Tech!
   <a href="https://dev.to/limagbz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-black?style=for-the-badge&logo=dev.to"></a>
 </p>
 
-## 💻 Some Tech that I used
-<!-- https://badges.pages.dev/ -->
+If it involves data, servers, or models, I’ve probably built it, scaled it, or at least debugged it (whether it was 
+my bug or not). My background is a mix of Data Engineering, Machine Learning and Infrastructure which basically means 
+I care just as  much about the pipeline not catching fire as I do about the quality of your data. 
 
-![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
-![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat)
-![Apache Cassandra Badge](https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=apachecassandra&logoColor=fff&style=flat)
-![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Elastic Stack Badge](https://img.shields.io/badge/Elastic%20Stack-005571?logo=elasticstack&logoColor=fff&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
-![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat)
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
-![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat)
-![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat)
-![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
-![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=flat)
-![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=fff&style=flat)
-![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat)
-![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
-![Apache Parquet Badge](https://img.shields.io/badge/Apache%20Parquet-50ABF1?logo=apacheparquet&logoColor=fff&style=flat)
-![Bazel Badge](https://img.shields.io/badge/Bazel-43A047?logo=Bazel&logoColor=fff&style=flat)
+Currently exploring AI Engineering, with a soft spot for ML Explainability ("the model said so" is never a good answer). 
+Bring a favorite tech topic and a little caffeine, and we can talk about it all day!
 
-## 💡 Highlights
+<p align="center">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=fff&style=flat" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=fff&style=flat" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+</p>
+
+### 💡 Things I've Built
 
 <table>
   <tr>
-    <!-- Top Billboard Songs -->
-    <td width="50%">
-      <a href="https://public.tableau.com/views/BillboardSpotify/Storytelling?:language=en&:display_count=y&:origin=viz_share_link">
-        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBpZWo3bWRyZnk3ZG8zcXdxaTJ0cTMyajYzZjgycDJ6OW9lbjgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxxkWxHOEDrq0/giphy.gif">
+    <!-- Fake News -->
+    <td width="50%" valign="top">
+      <a href="https://doi.org/10.1111/exsy.13171">
+        <img width="100%" src="assets/fake-news.png">
       </a>
       <br>
-      <sup><strong>Tableau Public:</strong> A study of billboard's most popular songs from 1950 to 2015 </sup>
+        <strong>📄 Research: Statistical Learning on Fake News</strong><br>
+        <sub>Peer-reviewed study analyzing and detecting misinformation patterns in Brazilian news media.</sub><br>
+        <sub><strong><a href="https://doi.org/10.1111/exsy.13171">Read Paper (Expert Systems) ↗</a></strong> &nbsp;•&nbsp; <strong><a href="https://github.com/limagbz/fake-news-ptBR">Source Code ↗</a></strong></sub><br>
     </td>
-    <!-- Arrythimia Alarms -->
-    <td width="50%">
-      <a href="https://github.com/limagbz/arrhythmia-alarms">
-        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzaWh6NWhwZTlweDZjeWh1aWk3Y3NkOHo5YXB6OHJ0eXh1ZzBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oStBM1ANst52U/giphy.gif">
+    <!-- Data Mesh -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/limagbz/data-mesh-yelp">
+        <img width="100%" src="assets/data-mesh.png">
       </a>
       <br>
-      <sup><strong>Project:</strong> Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks</sup>
+      <strong>🏗️ Architecture: Yelp! Data Mesh</strong><br>
+      <sub> Personal project for a decentralized data platform implementing domain-oriented ownership and self-serve data infrastructure.</sub><br>
+      <sub><strong><a href="https://github.com/limagbz/fake-news-ptBR">Source Code ↗</a></strong></sub><br>
     </td>
   </tr>
   <tr>
-    <!-- Fake News -->
-    <td width="50%" align="center">
-      <a href="https://doi.org/10.1111/exsy.13171">
-        <img width="75%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmaHoyZDY3OHRiMmRmZDF1YTZ3eTF1N2V3a2c0dG9sdWxob29vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzenHUYecUt20MPCnr/giphy.gif">
+    <!-- Top Billboard Songs -->
+    <td width="50%" valign="top">
+      <a href="https://public.tableau.com/views/BillboardSpotify/Storytelling?:language=en&:display_count=y&:origin=viz_share_link">
+        <img width="100%" src="assets/spotify.png">
       </a>
       <br>
-      <sup><strong>Reasearch:</strong> Statistical learning from Brazilian fake news </sup>
+      <strong>📊 Storytelling: Billboard & Spotify (1950–2015)</strong><br>
+      <sub>Interactive visual exploration on Tableau of 65 years of hit music and audio trends.</sub><br>
+      <sub><strong><a href="https://public.tableau.com/views/BillboardSpotify/Storytelling?:language=en&:display_count=y&:origin=viz_share_link">Visualization (Tableau) ↗</a></strong> &nbsp;•&nbsp; <strong><a href="https://github.com/limagbz/top_billboard_songs_spotify">Source Code ↗</a></strong></sub><br>
     </td>
-    <!-- Data Mesh -->
-    <td width="50%">
-      <a href="https://github.com/limagbz/data-mesh-yelp">
-        <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdqaXh6a2t3YjNwMHg0cTZwdmc4N2txdmE0N2ExampxdnlsNHFocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTO8QA0mX2Cfw5vhkp/giphy.gif">
+      <!-- Arrhythmia Alarms -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/limagbz/arrhythmia-alarms">
+        <img width="100%" src="assets/arrhythmia.png">
       </a>
       <br>
-      <sup><strong>Project:</strong> Yelp! Data Mesh Project</sup>
+      <strong>🫀 AI/ML: ICU Arrhythmia Alarm Detection</strong><br>
+      <sub>Convolutional Neural Network model (VGG16) designed to classify cardiac signals from multiple equipments in order to reduce false ICU alarms.</sub><br>
+      <sub><strong><a href="https://github.com/limagbz/arrhythmia-alarms">Source Code ↗</a></strong></sub><br>
     </td>
   </tr>
 </table>
